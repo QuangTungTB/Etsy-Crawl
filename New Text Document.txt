@@ -1,0 +1,1 @@
+transfer 'svgdream.com' 'svgdreamcomymj_db' 'svgdreamcomztu_user' 'zdvmmjvkmmm0mmy1y2eyntc0m2zhmz'  'admin' 'NWRmNzk0Yjg3Y2Q0MTA0YzIwMWUyYzFj' http://209.145.57.120:6789/backup/2022-07-01-17h_svgdream.com.tar.gz 2022-07-01-17h_svgdream.com.tar.gz
