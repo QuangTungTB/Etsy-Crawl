@@ -3,6 +3,9 @@
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 
+*Bản 2.21.3:
+- Lưu lại mật khẩu lần đăng nhập trước đó.
+
 *Bản 2.21.2:
 - thay đổi link sản phẩm từ sku thành tên sản phẩm.
 
