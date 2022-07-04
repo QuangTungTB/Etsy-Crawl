@@ -7,7 +7,7 @@
 - Lưu lại mật khẩu lần đăng nhập trước đó.
 
 *Bản 2.21.2:
-- thay đổi link sản phẩm từ sku thành tên sản phẩm.
+- Thay đổi link sản phẩm từ sku thành tên sản phẩm.
 
 *Bản 2.21.1:
 - Sửa lỗi mất mô tả khi up sản phẩm trong những lần chạy sau khi mở lại tool đã được tắt trước đó.
