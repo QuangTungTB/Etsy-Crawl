@@ -30,3 +30,9 @@
 - Cập nhật hướng dẫn.
 - Thêm tính năng tìm theo link trang.
 - Cập nhật thông báo chi tiết lỗi khi kết nối với chrome.
+
+*Bản 1.0.0:
+- Cào sản phẩm từ etsy theo từ khóa, tên shop trong trang bán hàng hoặc lịch sử bán hàng.
+- Có bộ lọc sản phẩm theo lượng review của sản phẩm (*lượng review sản phẩm không phải lượng review cửa shop) và theo trạng thái bestseller (bestseller và popular now là tương đương).
+- Tự động đẩy sản phẩm chứa tên, sku (id sản phẩm của etsy), mô tả (có thể custom), tag, giá (có thể custom), giá discount (có thể custome) và danh mục lên trang Woocommerce đã cài đặt trước đó.
+- Lưu lại thông tin dùng để chỉnh sửa cho những lần đăng nhập sau.
