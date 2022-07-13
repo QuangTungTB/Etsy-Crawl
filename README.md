@@ -4,6 +4,9 @@
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: v2.21.4
 
+*Bản 2.21.5:
+- Fix lỗi chrome 103.0.5060.144  .wt-text-title.
+
 *Bản 2.21.4:
 - HOT FIX Sửa lỗi bộ lọc không nhận sản phẩm nào khi cào bằng link.
 
