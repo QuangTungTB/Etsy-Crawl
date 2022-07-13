@@ -5,7 +5,7 @@
 - Bản ổn định hiện tại: v2.21.4
 
 *Bản 2.21.5:
-- Fix lỗi chrome 103.0.5060.144  .wt-text-title.
+- Fix lỗi chrome 103.0.5060.114  .wt-text-title.
 
 *Bản 2.21.4:
 - HOT FIX Sửa lỗi bộ lọc không nhận sản phẩm nào khi cào bằng link.
