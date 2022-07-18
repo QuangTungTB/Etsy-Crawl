@@ -2,7 +2,12 @@
 *Note: 
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
-- Bản ổn định hiện tại: v2.21.4
+- Từ bản 3.0.0 trở đi cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tại tại https://github.com/WP-API/Basic-Auth .
+- Bản ổn định hiện tại: v2.21.5
+
+*Soon~ Bản 3.0.0:
+- Thêm chức năng tự động chuyển đổi ảnh đầu ra về size nhất định.
+- Tự động thêm ảnh nền cho ảnh được chuyển đổi (nếu được chọn).
 
 *Bản 2.21.5:
 - Fix lỗi chrome 103.0.5060.114  .wt-text-title.
@@ -33,7 +38,7 @@
 *Bản 2.18.1:
 - Cập nhật hướng dẫn.
 - Thêm tính năng tìm theo link trang.
-- Cập nhật thông báo chi tiết lỗi khi kết nối với chrome.
+- Cập nhật thông báo chi tiết lỗi khi kết nối với chrome.https://github.com/WP-API/Basic-Auth
 
 *Bản 1.0.0:
 - Cào sản phẩm từ etsy theo từ khóa, tên shop trong trang bán hàng hoặc lịch sử bán hàng.
