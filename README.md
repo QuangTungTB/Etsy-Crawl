@@ -6,6 +6,9 @@
 - Bản ổn định hiện tại: v3.0.2
 
 *Bản 3.0.2:
+- Sửa lỗi tìm kiếm với tên shop và theo link với shop không có danh mục.
+
+*Bản 3.0.2:
 - Sửa lỗi hệ thống.
 - Tăng cường bảo mật.
 
