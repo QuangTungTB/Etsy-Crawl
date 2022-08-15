@@ -3,7 +3,10 @@
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Từ bản 3.0.0 trở đi cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tại tại https://github.com/WP-API/Basic-Auth .
-- Bản ổn định hiện tại: v3.3.0
+- Bản ổn định hiện tại: v3.3.1
+
+*Bản 3.3.1:
+- Tăng tốc xử lý ảnh khi có yêu cầu chuyển đổi sang kích thước theo tùy chỉnh.
 
 *Bản 3.3.0:
 - Thêm chức năng tùy chọn downloadable và sold individually.
