@@ -10,7 +10,7 @@
 
 *Bản 3.3.0:
 - Thêm chức năng tùy chọn downloadable và sold individually.
-- Tải sản phẩm lên trang đã được cập nhật sang httpclience.
+- Tải sản phẩm lên trang đã được cập nhật sang httpclient.
 
 *Bản 3.2.0:
 - Thêm chức năng giới hạn số lượng ảnh tải lên một sản phẩm.
