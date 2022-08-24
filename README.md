@@ -5,6 +5,11 @@
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tại tại https://github.com/WP-API/Basic-Auth .
 - Bản ổn định hiện tại: v3.5.1
 
+*Bản 3.5.4:
+- Hiển thị thông báo nguồn lỗi.
+- MessageBox tự thoát sau 5s nếu có thông báo lỗi khi cào sản phẩm.
+- Cải thiện tốc độ mở app.
+
 *Bản 3.5.1:
 - Sửa lỗi font chữ tiếng việt và các kí tự đặc biệt.
 - Cập nhật selenium.
