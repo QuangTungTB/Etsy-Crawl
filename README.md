@@ -6,6 +6,9 @@
 - Bản ổn định hiện tại: v4.6.2
 
 *Bản 4.6.2:
+- Sửa lỗi option size mention khi tải sản phẩm vật lý cho Inspire.
+
+*Bản 4.6.2:
 - Sửa lỗi thêm thông số và sku của option cho sản phẩm Inspire Uplift.
 
 *Bản 4.6.1:
