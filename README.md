@@ -5,6 +5,12 @@
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tại tại https://github.com/WP-API/Basic-Auth .
 - Bản ổn định hiện tại: v4.6.2
 
+*Bản 4.7.0:
+- Thêm phương thức tải sản phẩm lên trang Inspire theo sản phẩm mẫu.
+
+*Bản 4.6.:
+- Sửa lỗi option size mention khi tải sản phẩm vật lý cho Inspire.
+
 *Bản 4.6.2:
 - Sửa lỗi option size mention khi tải sản phẩm vật lý cho Inspire.
 
