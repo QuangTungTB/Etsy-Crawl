@@ -8,10 +8,7 @@
 *Bản 4.7.0:
 - Thêm phương thức tải sản phẩm lên trang Inspire theo sản phẩm mẫu.
 
-*Bản 4.6.:
-- Sửa lỗi option size mention khi tải sản phẩm vật lý cho Inspire.
-
-*Bản 4.6.2:
+*Bản 4.6.3:
 - Sửa lỗi option size mention khi tải sản phẩm vật lý cho Inspire.
 
 *Bản 4.6.2:
