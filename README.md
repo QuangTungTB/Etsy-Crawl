@@ -5,6 +5,10 @@
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tải tại https://github.com/WP-API/Basic-Auth .
 - Bản ổn định hiện tại: v4.7.6
 
+*Bản 4.8.1:
+- Bổ sung file mặc định sản phẩm cài đặt theo phương thức duplicate cho sản phẩm trên Inspire Uplift.
+- Sửa lỗi element tải sản phẩm lên Inspire Uplift.
+
 *Bản 4.7.6:
 - Sửa lỗi tag cho sản phẩm được upload từ sản phẩm mẫu cho sản phẩm Inspire Uplift.
 - Sửa lỗi nhầm view/duplicate nếu sản phẩm mẫu chưa được chấp nhận cho sản phẩm Inspire Uplift.
