@@ -3,7 +3,11 @@
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tải tại https://github.com/WP-API/Basic-Auth .
-- Bản ổn định hiện tại: v4.7.6
+- Bản ổn định hiện tại: v4.8.3
+
+*Bản 4.8.3
+- Sửa lỗi bộ lọc từ khóa cho tên sản phẩm.
+- Chỉnh sửa cơ chế mở browser khi up sản phẩm lên Inspire Uplift.
 
 *Bản 4.8.1:
 - Bổ sung file mặc định sản phẩm cài đặt theo phương thức duplicate cho sản phẩm trên Inspire Uplift.
