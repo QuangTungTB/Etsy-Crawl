@@ -5,6 +5,11 @@
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tải tại https://github.com/WP-API/Basic-Auth .
 - Bản ổn định hiện tại: v4.8.3
 
+
+*Bản 4.8.6
+- Tự động thoát browser sau khi cào sản phẩm tại trang landing page.
+- Ẩn hiện password tài khoản web khi trỏ chuột vào khu vực nhập liệu.
+
 *Bản 4.8.3
 - Sửa lỗi bộ lọc từ khóa cho tên sản phẩm.
 - Chỉnh sửa cơ chế mở browser khi up sản phẩm lên Inspire Uplift.
