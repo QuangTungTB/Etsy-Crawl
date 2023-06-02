@@ -5,6 +5,9 @@
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tải tại https://github.com/WP-API/Basic-Auth .
 - Bản ổn định hiện tại: v4.8.3
 
+*Bản 4.8.8
+- Nút hiển thị browser khi cào sản phẩm.
+- Kill luồng chromedriver khi bấm nút thoát tiến trình.
 
 *Bản 4.8.6
 - Tự động thoát browser sau khi cào sản phẩm tại trang landing page.
