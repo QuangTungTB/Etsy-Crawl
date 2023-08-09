@@ -1,5 +1,6 @@
-# Etsy47-Etsy-Crawler-LTS
+# Etsy47-Etsy-Crawler-EOS
 *Note: 
+- TOOL ĐÃ DỪNG HỖ TRỢ CẬP NHẬT, ĐỂ SỬ DỤNG CÁC BẢN ĐƯỢC HỖ TRỢ VUI LÒNG SỬ DỤNG TẠI: https://github.com/QuangTungTB/TwoBros-Tools-System
 - Phần mềm là file rar trong file được tải về.
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Cần có plugin "JSON Basic Authentication" để dùng tính năng chuyển đổi size ảnh đầu ra, link tải tại https://github.com/WP-API/Basic-Auth .
